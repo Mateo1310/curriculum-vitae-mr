@@ -43,6 +43,10 @@ p{
     background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #FFFFFF;
     text-align: justify;
+    height: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 
 .container-cv{
